@@ -1,0 +1,10 @@
+# web application
+Flask[async]
+python-dotenv
+# Hedera Agent Kit
+hedera-agent-kit
+langchain
+# Connector to Anthropic LLM
+langchain-anthropic
+# Agent Plugin-tool to get information form Coincap 
+coincap-hedera-agent-kit-plugin
